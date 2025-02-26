@@ -3,7 +3,7 @@
 
 
 <h3 align="center">A passionate frontend developer | React JS | Next Js</h3>
-
+********** I am open to work remotely .********** 
 
 - 🌱 I’m currently learning **Next js, Redux, Typescript.**
 
@@ -12,10 +12,12 @@
 - 💬 Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
 - 📫 How to reach me **lipinazneen85@gmail.com**
+ 
+- Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/1GdzYqU8mp8ECCRJWdngiiNhRuf-DQanb/view?usp=sharing" target="_blank">resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<p><a href="https://github.com/nazneenlipi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nazneensultana/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><a href="https://www.facebook.com/nazneen.sultana.39566905" title="Nazneen's Facebook Profile">
+<p><a href="https://github.com/nazneenlipi" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a> <a href="https://www.linkedin.com/in/nazneenlipi/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@th.guibert" target="_blank"><a href="https://www.facebook.com/nazneen.sultana.39566905" title="Nazneen's Facebook Profile">
  <img alt="Facebook" src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
 
 </a>
