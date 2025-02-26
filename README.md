@@ -55,10 +55,11 @@
 
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
-<div align="center">
-   <img align="left" width=990 height="300" src="https://streak-stats.demolab.com?user=nazneenlipi&theme=dark&hide_border=true&stroke=19A4EB&ring=15A9EB" alt="nazneenlipi" />
-</div>
-
+  <div align=center >
+    <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
+      <img align="left" width=990 height="300" src="https://streak-stats.demolab.com?user=git12nazneen&theme=dark&hide_border=true&stroke=19A4EB&ring=15A9EB" alt="git12nazneen" />
+    </a>
+  </div>
 <br>
 <br>
 <hr>
