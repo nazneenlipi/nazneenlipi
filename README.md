@@ -5,9 +5,6 @@
 <h3 align="center">A passionate frontend developer | React JS | Next Js</h3>
 <h2 align="center"> I am open to work remotely .</h2>
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=nazneenlipi.nazneenlipi" />
-</div>
 
 
 - 🌱 I’m currently learning **Next js, Redux, Typescript.**
