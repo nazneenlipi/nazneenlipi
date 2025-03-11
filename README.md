@@ -36,7 +36,7 @@
   <code><img title="Next js" height="25" width="25"  src="/icon/next.png"></code>
  <code><img title="Nuxt js" height="25" width="65" src="/icon/nuxt1 (1).png"></code>
  <code><img title="vue" height="25" src="/icon/vue.png"></code>
-  <code><img title="ts" height="25" src="/icon/ts.png"></code>
+  <code><img title="ts" height="25" src="/icon/ts (1).png"></code>
 <code><img title="Node.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"></code>
 <code><img title="Express.js" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg"></code>
 <code><img title="MongoDB" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"></code>
