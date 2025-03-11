@@ -33,7 +33,7 @@
 <code><img title="HTML5" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"></code>
 <code><img title="CSS3" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"></code>
 <code><img title="React" height="25" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"></code>
-  <code><img title="Next js" height="25" width="25"  src="/icon/vscode-icons--file-type-light-next.png"></code>
+  <code><img title="Next js" height="25" width="25"  src="/icon/next.png"></code>
  <code><img title="Nuxt js" height="25" width="65" src="/icon/nuxt1.png"></code>
  <code><img title="vue" height="25" src="/icon/vue.png"></code>
   <code><img title="ts" height="25" src="/icon/ts.png"></code>
