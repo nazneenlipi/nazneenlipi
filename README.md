@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **lipinazneen85@gmail.com**
  
-- Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/1GdzYqU8mp8ECCRJWdngiiNhRuf-DQanb/view?usp=sharing" target="_blank">resume</a>
+- Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/12xr8tQ5flevonSTNF-yy5vfi5QdbK-iN/view?usp=sharing" target="_blank">resume</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
