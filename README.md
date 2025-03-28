@@ -77,8 +77,8 @@
 
 
 
-<a align="right" href="https://github.com/nazneenlipi/Nourish-hub" title="Hotel Booking Application">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=Nourish-hub&theme=react&border_color=61dafb&border_radius=10&description=Hotel%20Booking%20Application">
+<a align="right" href="https://github.com/nazneenlipi/Flow-Mate-ClientSide" title="Task Management Tool">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=Flow-Mate-ClientSide&theme=react&border_color=61dafb&border_radius=10&description=Hotel%20Booking%20Application">
 </a>
 
 
