@@ -90,7 +90,7 @@
 </a>
 
 <a align="right" href="https://github.com/nazneenlipi/FurnitureShop-client" title="E-commerce">
-  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=Real-estate&theme=react&border_color=61dafb&border_radius=10">
+  <img align="right" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=FurnitureShop-client&theme=react&border_color=61dafb&border_radius=10">
 </a>
 
 </div>
