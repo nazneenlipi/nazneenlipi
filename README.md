@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nazneenlipi&color=blue)
-<img src="/banner.gif"/>
+<img src="/banner.jpg"/>
 
 
 <h3 align="center">A passionate frontend developer | React JS | Next Js</h3>
