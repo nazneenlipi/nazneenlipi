@@ -9,9 +9,9 @@
 -   A passionate frontend developer | React JS | Next Js
 - 🌱 I’m currently learning **Redux, Typescript.**
 
-- 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
+- All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
-- 💬 Ask me about **Website build, Custom website, E-commerce website, Full stack website**
+- Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
 - 📫 How to reach me **lipinazneen85@gmail.com**
  
