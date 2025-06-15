@@ -7,7 +7,7 @@
 
 <br/>
 -   A passionate frontend developer | React JS | Next Js
-- 🌱 I’m currently learning **Next js, Redux, Typescript.**
+- 🌱 I’m currently learning **Redux, Typescript.**
 
 - 👨‍💻 All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
 
