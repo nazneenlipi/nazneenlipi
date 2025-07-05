@@ -25,6 +25,10 @@
 </a>
 </a>
 
+### Technologies, Frameworks, Languages & Tools
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bootstrap,tailwind,react,nextjs,mongodb,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify&perline=14)
+
 <hr>
 
 <h2 align="center">⚡ Stats ⚡</h2>
