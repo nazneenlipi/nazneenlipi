@@ -27,7 +27,7 @@
 
 ### Technologies, Frameworks, Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,c,bootstrap,tailwind,react,nextjs,mongodb,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify&perline=14)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,mongodb,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify&perline=14)
 
 <hr>
 
