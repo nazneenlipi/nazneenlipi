@@ -58,7 +58,7 @@
 
 </div>
 <br/><br/><br/><br/><br/><br/>
-<div width="100%" align="center">
+<div width="100%" align="center mt-5">
  <a align="left" href="https://github.com/nazneenlipi/luxuryCompany-portfolio" title="Premium Company Portfolio">
   <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=luxuryCompany-portfolio&theme=react&border_color=61dafb&border_radius=10">
 </a>
