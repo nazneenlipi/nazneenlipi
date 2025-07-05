@@ -13,7 +13,7 @@
 
 - Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
-- How to reach me **lipinazneen85@gmail.com**
+- How to reach me **lipinazneen65@gmail.com**
  
 - Know about my experiences . Here is my  <a href="https://drive.google.com/file/d/12xr8tQ5flevonSTNF-yy5vfi5QdbK-iN/view?usp=sharing" target="_blank">resume</a>
 
