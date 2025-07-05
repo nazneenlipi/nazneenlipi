@@ -60,7 +60,7 @@
 <br/><br/><br/><br/><br/><br/>
 <div width="100%" align="center">
  <a align="left" href="https://github.com/nazneenlipi/luxuryCompany-portfolio" title="Premium Company Portfolio">
-  <img align="left" height="115" width="300" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=luxuryCompany-portfolio&theme=react&border_color=61dafb&border_radius=10">
+  <img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=nazneenlipi&repo=luxuryCompany-portfolio&theme=react&border_color=61dafb&border_radius=10">
 </a>
 
 <a align="right" href="https://github.com/nazneenlipi/FurnitureShop-client" title="E-commerce">
