@@ -1,5 +1,5 @@
 ![Profile views](https://komarev.com/ghpvc/?username=nazneenlipi&color=blue)
-<img src="/banner.jpg"/>
+<img src="/banner.png"/>
 
 
 
