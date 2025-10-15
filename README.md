@@ -6,7 +6,7 @@
 <h2 align="center"> I am open to work remotely .</h2>
 
 <br/>
-   A passionate frontend developer | React JS | Next Js
+   A passionate fullstack developer 
 - 🌱 I’m currently learning **React Native.**
 
 - All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
