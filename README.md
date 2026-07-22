@@ -9,7 +9,7 @@
    A passionate fullstack developer 
 - 🌱 I’m currently learning **React Native.**
 
-- All of my projects are available at [https://nazneen.info/](https://nazneen.info/)
+- All of my projects are available at https://nazneenlipi.peermeld.com/
 
 - Ask me about **Website build, Custom website, E-commerce website, Full stack website**
 
