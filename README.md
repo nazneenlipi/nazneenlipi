@@ -27,14 +27,31 @@
 
 
 
-## 🚀 Featured Products
+## 🛠️ Tech Stack & Tools
 
-| Product | Description | Platform |
-|---|---|---|
-| **Soundmade** | Music platform connecting artists and fans | iOS & Android |
-| **WeWaive** | Royalty-free AI music with trial subscriptions | Mobile |
-| **Kiibee** | Digital content publishing and commerce platform | Web |
-| **Foodime** | Restaurant POS with app, admin & manager workflows | Web & Mobile |
+- **Languages:** TypeScript, JavaScript
+- **Backend:** Node.js, Express.js, REST APIs, GraphQL
+- **Database & ORM:** MongoDB, Mongoose, Prisma
+- **Authentication & AI:** Authentication Flows, Two-Factor Authentication (2FA)
+- **Frontend & Mobile:** React, Next.js, React Native, Expo, Tailwind CSS, Styled Components, Astro.js
+- **Tools & Workflow:** Git, Turborepo, Figma, CI/CD
+
+---
+
+## 💼 Experience
+
+- **XIIA** — Software Engineer *(June 2025 – November 2026)*
+- **Longbitz** — Frontend Developer *(Internship)*
+- **Pii Marketer** — Frontend Developer *(Internship)*
+
+---
+
+## 🚀 Products & Platforms
+
+- **Soundmade** — A mobile music platform connecting artists and fans on iOS and Android.
+- **[WeWaive](https://wewaive.com/)** — A mobile platform for royalty-free AI music with a trial-based subscription experience.
+- **[Kiibee](https://www.kiibee.com/)** — A content-commerce platform for publishing and selling digital content.
+- **[Foodime](https://foodime.dk/)** — A restaurant POS platform with mobile apps, admin dashboards, and manager workflows.
 
 ### Technologies, Frameworks, Languages & Tools
 
