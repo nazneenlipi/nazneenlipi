@@ -6,8 +6,9 @@
 <h2 align="center"> I am open to work remotely .</h2>
 
 <br/>
-  🚀 A passionate Full-Stack Developer focused on building scalable web and mobile applications with modern technologies.
-  Always learning, building, and exploring new ideas.
+    ** A passionate Full-Stack Developer focused on building scalable web and mobile applications with modern technologies. 
+<br/>
+  Always learning, building, and exploring new ideas. **
 
 - All of my projects are available at https://nazneenlipi.vercel.app
 
