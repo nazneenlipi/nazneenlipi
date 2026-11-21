@@ -25,6 +25,17 @@
 </a>
 </a>
 
+
+
+## 🚀 Featured Products
+
+| Product | Description | Platform |
+|---|---|---|
+| **Soundmade** | Music platform connecting artists and fans | iOS & Android |
+| **WeWaive** | Royalty-free AI music with trial subscriptions | Mobile |
+| **Kiibee** | Digital content publishing and commerce platform | Web |
+| **Foodime** | Restaurant POS with app, admin & manager workflows | Web & Mobile |
+
 ### Technologies, Frameworks, Languages & Tools
 
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,bootstrap,tailwind,react,nextjs,mongodb,nodejs,expressjs,vscode,git,firebase,figma,github,vercel,netlify&perline=14)
