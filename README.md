@@ -6,7 +6,8 @@
 <h2 align="center"> I am open to work remotely .</h2>
 
 <br/>
-    **Full-Stack Developer | React, Next.js, Node.js & React Native | Building web and mobile experiences.**
+
+**Full-Stack Developer | React, Next.js, Node.js & React Native | Building web and mobile experiences.**
 
 - All of my projects are available at https://nazneenlipi.vercel.app
 
